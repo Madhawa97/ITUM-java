@@ -1,7 +1,5 @@
 package com.itum;
 
-import org.w3c.dom.ls.LSOutput;
-
 public class Vehicle {
 
     String modelYear = "2000";
